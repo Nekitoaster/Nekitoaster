@@ -2,4 +2,4 @@
 
 <h1 align="center">Hi there, I'm <a href="https://t.me/Nekitoaster" target="_blank">Nikita</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Frontend developer from Russia <img src="[https://github.com/blackcater/blackcater/raw/main/images/Hi.gif](https://pixy.org/src2/675/6759488.png)" height="32"/></h3>
+<h3 align="center">Frontend developer from Russia</h3>
